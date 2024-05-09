@@ -1,2 +1,3 @@
-# TRIPZY
-TRIPZY: turning travelers into shippers
+# web_dev
+learning
+
